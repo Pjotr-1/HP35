@@ -12,6 +12,7 @@ The code is rewritten and instead of creating keys on the display using the GFX 
 
 Improvements to be done (if there is time to):
 - keystroke feedback; either by vibration, audio or visually
+- improper calculations such as division by zero, does not result in a blinking zero
 - annoying rounding errors that are not present in the real HP35
 
 [1] https://www.instructables.com/HP-35-Scientific-Calculator-Emulator-With-Arduino-/
